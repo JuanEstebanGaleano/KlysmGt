@@ -40,7 +40,15 @@ th {
     background-color: #333;
     color: white;
 }
+th, td {
+    padding: 10px;
+    text-align: left;
+}
 
+th {
+    background-color: #333;
+    color: white;
+}
 footer {
     background-color: #333;
     color: white;
