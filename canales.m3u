@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 group-title="COLOMBIA", Win Sports http://bit.ly/2O3m7DU
+#EXTINF:-1,Win Sports http://bit.ly/2O3m7DU
 #EXTINF:-1,ESPN
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1,ESPN2
